@@ -14,4 +14,4 @@ Linear Graph which shows the data of 2018 as Years of Experience vs Current Sala
 These are the Multiple Linear Graphs which shows the data of different years viz 2018, 2019 and 2020 accordingly as Years of Experience vs Current Salary.
 
 ![Pie Chart](https://user-images.githubusercontent.com/63190833/113488613-d14afa80-94dc-11eb-9d62-e0d234a3b6c7.png)
-Pie Chart which shows the data of 2020 as gender ratio or the filled column of gender excluding the void(NaN) columns. 
+Pie Chart which shows the data of 2020 as gender ratio or the filled column of gender excluding the void (NaN) columns. 
