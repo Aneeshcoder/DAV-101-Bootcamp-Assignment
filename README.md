@@ -2,3 +2,12 @@
 Analyze the IT Salary Survey Data and generate insightful Visualizations using Plotly
 
 Plotly Graphs are not visible on the Github site so to visualize the data using Plotly download either of the file and run it on the Local Envionment or on Google Colab.
+
+With this assignment I got Marks as follows: 58, 64 and 46 that is average marks 56 out of 80 which is equivalent to 70% of marks.
+
+Some of the Plotly Graphs are given below which are obtained by using the above code:
+
+![Linear Graph](https://user-images.githubusercontent.com/63190833/113488506-3eaa5b80-94dc-11eb-80ae-15eafd1aec25.png)
+Linear Graph
+
+![Multiple Linear Graph](https://user-images.githubusercontent.com/63190833/113488511-45d16980-94dc-11eb-915a-1ffb301c9ce2.jpg)
