@@ -14,7 +14,7 @@ Plot 1: Linear Graph which shows the data of 2018 as Years of Experience vs Curr
 Plot 2: These are the Multiple Linear Graphs which shows the data of different years viz 2018, 2019 and 2020 accordingly as Years of Experience vs Current Salary.
 
 ![Pie Chart](https://user-images.githubusercontent.com/63190833/113488613-d14afa80-94dc-11eb-9d62-e0d234a3b6c7.png)
-Plot 3: Pie Chart which shows the data of 2020 as gender ratio or the filled column of gender excluding the void (NaN) columns. 
+Plot 3: Pie Chart which shows the data of 2020 as gender ratio or the filled column of gender excluding the void (NaN) columns.
 
-After completing this assignment I got my Bootcamp completion certificate:
+***After completing this assignment I got my Bootcamp completion certificate:***
 ![DPhi Bootcamp Certificate](https://user-images.githubusercontent.com/63190833/116794608-e3c05000-aaeb-11eb-81af-63d728c9124c.png)
